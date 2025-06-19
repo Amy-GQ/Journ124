@@ -13,3 +13,5 @@ Someone once told me the following quote:
 
 This will have a ~~strikethrough~~
 
+This is a picture of journalism:
+![Journalism pic](j124.jpg)
